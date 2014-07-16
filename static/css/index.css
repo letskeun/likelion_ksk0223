@@ -1,0 +1,165 @@
+
+img{
+	width: 90px;
+	height: 90px;
+}
+
+.main-header{
+	background: white;
+	position: fixed;
+	width: 100%;
+	z-index: 100;
+	min-height: 90px;
+}
+.logo{
+	
+.main-menu-container{
+	width: 1170px;
+	height: 60px;
+}
+	
+}
+ul#menu-main-menu{
+
+	padding-right:50px;
+	list-style: none;
+	width:525px;
+	float:right;
+	margin-right:300px;
+	margin-top:50px;
+}
+
+ul#menu-main-menu li{
+	font-family: arial;
+	display: inline
+}
+
+ul#menu-main-menu li a{
+	text-decoration:none;
+	display: block;
+	padding: 5px 0;
+	width: 100px;
+	color:black;
+	float: right;
+	text-align: center;
+	
+}
+
+img#twitter{
+	width: 45px;
+	height: 45px;
+	float:right;
+	margin-right:-340px;
+	margin-top:-10px;
+}
+img#facebook{
+	width: 30px;
+	height: 30px;
+	float:right;
+	margin-right:-375px;
+	margin-top:-3px;
+}
+
+img#instagram{
+	width: 35px;
+	height: 35px;
+	float:right;
+	margin-right:-420px;
+	margin-top:-5px;
+}
+
+button.contact-me{
+	width: 150px;
+	height: 50px;
+	border-radius: 5px;
+	background-color: #ff7920; 
+    padding: 2px 4px;
+    font: 13px arial;
+    text-decoration: none;
+    border: 1px solid #000;
+    border-color: #aaa #444 #444 #aaa;
+    color: #000;
+	float:right;
+	margin-right:-770px;
+	margin-top:35px;
+}
+
+img.education{
+	width: 200px;
+	height: 200px;
+	border-radius: 150px;
+	padding: 20px 20px 20px 30px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+}
+img.skills{
+	width: 200px;
+	height: 200px;
+	padding: 20px 50px 20px 40px;
+	border-radius: 150px;
+	margin-top:12px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+}
+img.employment{
+	width: 200px;
+	height: 200px;
+	padding: 20px 20px 20px 70px;
+	margin-top:12px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+}
+img.activities{
+	width: 200px;
+	height: 200px;
+	padding: 20px 20px 20px 100px;
+	margin-top:12px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+}
+
+
+#profile_photo{
+
+	margin: 20px;
+	display: block;
+	float: left;
+}
+
+#profile{
+
+	margin: 15px;
+	dixplay: block;
+	float: right;
+}
+
+.namecard{
+
+	width: 408px;
+	height: 143px;
+	border: 1px solid black;
+}
+
+p.namecard{
+	font-family:arial;
+	color:black;
+	font-size:15px;
+}
+
+img.namecard {
+	width:50px;
+	height:50px;
+	border-radius: 50px/50px;
+	margin-top: 20px;
+}
+
+
+
+th, td.namecard {
+	border: 1px solid #bcbcbc;
+	color: #bcbcbc;;
+
+}
+
