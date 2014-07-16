@@ -1,7 +1,8 @@
-$(document).ready(function(){
-	$('#twitter').mouseenter(function(){
-    	$(this).fadeOut('slow');
-    });
+
+// $(document).ready(function(){
+// 	$('#twitter').mouseenter(function(){
+//     	$(this).fadeOut('slow');
+//     });
 
 
-})
+// })
